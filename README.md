@@ -1,4 +1,4 @@
-# node_actividad2
+# Actividad Opcional - Express
 ## inicio del servidor
 Para iniciar express, desde la consola se debe digitar el comando _node index.js_
 
