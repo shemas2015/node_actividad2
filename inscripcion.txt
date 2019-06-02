@@ -1,0 +1,1 @@
+{"id":1,"nombre":"Ingeniería de Requerimientos","duracion":6,"valor":10}
